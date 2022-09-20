@@ -1,0 +1,13 @@
+cities top 5 rating of each city ?
+
+in which area maximum order found of each city ?
+
+maximum restorent registern on swiggy in which city?
+
+number of veg and non-vage restorent in each city ?
+
+in which area maximum order in each city ?
+
+in each city how many restorent available ?
+
+ 
